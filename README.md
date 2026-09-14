@@ -9,7 +9,7 @@ allocations.
 The analysis covers 14 projects, 5 employee profiles, and multiple
 seniority levels.
 
-Business Problem-
+Business Problem- 
 
 The objective was to understand:
 
