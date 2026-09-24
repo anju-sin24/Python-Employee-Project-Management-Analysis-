@@ -54,10 +54,7 @@ Key Results-
 - Identified peak individual bonus allocation of ₹50,100.
 
 Visualizations-
-
-![Project Completion](images/project_completion.png)
-
-![Bonus Analysis](images/bonus_analysis.png)
+https://github.com/anju-sin24/-Employee-Project-Management-Analysis-/blob/main/Final_CSV.png
 
 Business Insights-
 
